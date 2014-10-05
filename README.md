@@ -73,3 +73,4 @@ If you have made one, or know of any, please [let me know](https://github.com/so
 
 This was written simply as a bit of fun. Zach's site was so popular that it inspired references based on other subjects, such as [What The Fuck Is My Social Media Strategy?](http://whatthefuckismysocialmediastrategy.com) (and consequently [What The Fuck Is My Mashup?](http://whatthefuckismymashup.com/)). As far as I am aware, this idea was Zach's alone and so credit to him for the inspiration. As a meme, there are doubtlessly many topics that could do with the WTF treatment; which is why I decided to create this (very) simple platform.
 
+[ ![Codeship Status for Chris2Brooks/WTFEngine](https://codeship.io/projects/ca6a8110-2edc-0132-1079-2a765a227ada/status)](https://codeship.io/projects/39421)
